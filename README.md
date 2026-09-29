@@ -1,9 +1,4 @@
 # Bonjour !
-Vous trouverez sur mon profil deux types de repos : Ceux contenant des TME/TP de fac, et ceux contenant des projets persos
-
-## Contenus des TME de la fac
-(À venir)
-
 ## Projets personnels
 
 ### [StructuresDeDonnees](https://github.com/Timothee-F/StructuresDeDonnees) :
