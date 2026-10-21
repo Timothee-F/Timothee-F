@@ -21,12 +21,12 @@ Pour l'instant :
 
 À venir :
 - Automates cellulaires asynchrones
-
+<!--
 ### [Snake](https://github.com/Timothee-F/Snake) :
 Un snake en Java
 
 (Rien pour l'instant)
-
+-->
 <!--
 **Timothee-F/Timothee-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
