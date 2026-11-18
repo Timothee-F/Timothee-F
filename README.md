@@ -1,7 +1,7 @@
 # Bonjour !
 ## Projets personnels
 
-### [StructuresDeDonnees](https://github.com/Timothee-F/StructuresDeDonnees) :
+<!--### [StructuresDeDonnees](https://github.com/Timothee-F/StructuresDeDonnees) :
 Implémentation en C de différentes structures de données (vues dans le cours UL2IN006)
 
 Pour l'instant :
@@ -10,7 +10,7 @@ Pour l'instant :
 À venir :
 - Tables de Hachage
 - Arbres
-- Graphes
+- Graphes-->
 
 ### [AutomatesCellulaires](https://github.com/Timothee-F/AutomatesCellulaires) :
 Différents automates cellulaires et autres systèmes discrets, en C avec la SDL (bases de SDL vues avec ce [tuto](https://zestedesavoir.com/tutoriels/1014/utiliser-la-sdl-en-langage-c/))
