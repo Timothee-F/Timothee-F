@@ -8,5 +8,5 @@ Pour l'instant :
 - Fourmi de Langton
 - Jeu de la Vie
 
-<--!À venir :
+<!--À venir :
 - Automates cellulaires asynchrones-->
